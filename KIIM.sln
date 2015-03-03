@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIIM", "KIIM\KIIM.csproj", "{48B76EB3-31DE-497E-8E64-DD23F22B4479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIIM.Tests", "KIIM.Tests\KIIM.Tests.csproj", "{AA855548-3539-43FC-8293-DF0119BC888A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B76EB3-31DE-497E-8E64-DD23F22B4479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B76EB3-31DE-497E-8E64-DD23F22B4479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B76EB3-31DE-497E-8E64-DD23F22B4479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B76EB3-31DE-497E-8E64-DD23F22B4479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA855548-3539-43FC-8293-DF0119BC888A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA855548-3539-43FC-8293-DF0119BC888A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA855548-3539-43FC-8293-DF0119BC888A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA855548-3539-43FC-8293-DF0119BC888A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
